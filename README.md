@@ -1,7 +1,6 @@
 # QKPCG
 The benchmark instances used in our draft titled with "An effective hybrid search method for the quadratic knapsack problem with conflict graphs" are created by Dr. Xiaochuan Shi (shixiaochuan@whu.edu.cn) and friendly provided by Dr. Isma Dahmani (dahmani.isma@gmail.com).
 
-The source code of the proposed algorithm HSM will be publicly available soon.
 
 Reference papers to the quadratic knapsack problem with conflict graphs (QKPCG):
 1. Shi, X., Wu, L., & Meng, X. (2017). A new optimization model for the sustainable development: Quadratic knapsack problem with conflict graphs.
