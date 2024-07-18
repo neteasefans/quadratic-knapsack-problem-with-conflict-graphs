@@ -13,3 +13,5 @@ Research, 298(1), 125-147.
 Expert Systems with Applications, 148, 113224.
 
 
+Please cite our work as:
+Zhou, Q., Hao, J. K., Jiang, Z. Z., & Wu, Q. (2024). An effective hybrid search method for the quadratic knapsack problem with conflict graphs. Journal of the Operational Research Society, 75(5), 1000-1010.
