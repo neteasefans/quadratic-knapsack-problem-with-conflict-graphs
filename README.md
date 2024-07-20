@@ -1,4 +1,4 @@
-# QKPCG
+# An effective hybrid search method for the quadratic knapsack problem with conflict graphs
 The 45 benchmark instances used in our draft titled with "An effective hybrid search method for the quadratic knapsack problem with conflict graphs" are created by Dr. Xiaochuan Shi (shixiaochuan@whu.edu.cn) and friendly provided by Dr. Isma Dahmani (dahmani.isma@gmail.com).  To facilitate the further research, we upload the instances here.
 
 Reference papers to the quadratic knapsack problem with conflict graphs (QKPCG):
