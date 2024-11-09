@@ -25,7 +25,7 @@ q.zhou$
 
 q.zhou$ ./HSM_QKPCG ./ins_dir ./output_sol_file ./output_stat_file
 
-(where )
+(where instance_dir is the instance directory, output_sol_file is a file used to store the solution information, output_stat_file stores the running information)
 
 q.zhou$
 
