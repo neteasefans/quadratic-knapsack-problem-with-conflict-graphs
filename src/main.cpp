@@ -1,7 +1,7 @@
 #include"func_state.h"
 #include"global_variables.h"
 
-//#include"dirent.h" 	// this file is required in Winndows system
+//#include"dirent.h" 	// this file is required in Windows system
 
 #include <sys/types.h>
 #include<dirent.h>
