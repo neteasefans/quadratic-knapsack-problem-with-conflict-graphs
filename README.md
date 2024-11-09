@@ -18,21 +18,18 @@ The source code given in 'src' directory implements the method described in our 
 *** To compile:
 
 q.zhou$: make
+
 q.zhou$
 
 *** To run:
 
-q.zhou$ bash
+q.zhou$: ./HSM_QKPCG
 
-./HSM_QKPCG           
-
-$
+q.zhou$
 
 *** To clean
-$ bash
+q.zhou$: make clean
 
-make clean
-
-$
+q.zhou$
 
 
