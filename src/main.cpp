@@ -10,8 +10,10 @@ int main(int argc, char *argv[])
 {
 	if (argc < 4)
 	{
-		cout << "HSM_QKPCG usage: instance_dir output_sol_file out_stat_file" << endl;;
-		exit(10);
+		cout << "HSM_QKPCG usage: instance_dir output_sol_file out_stat_file" << endl;
+		cout << "instance_dir is the instance directory, output_sol_file is a file used to store the solution information, 
+			output_stat_file stores the running information";
+		exit(-1);
 	}
 
 	Time_limit = 20;
