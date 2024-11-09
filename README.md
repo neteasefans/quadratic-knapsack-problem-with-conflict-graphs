@@ -15,20 +15,28 @@ Please cite our work as:
 Zhou, Q., Hao, J. K., Jiang, Z. Z., & Wu, Q. (2024). An effective hybrid search method for the quadratic knapsack problem with conflict graphs. Journal of the Operational Research Society, 75(5), 1000-1010.
 
 The source code given in 'src' directory implements the method described in our paper. 
+
 ** Instructions
+
 *** To compile:
 $ bash
+
 make
+
 $
 
 *** To run:
 $ bash
-./HSM_QKPCG               
+
+./HSM_QKPCG           
+
 $
 
 *** To clean
 $ bash
+
 make clean
+
 $
 
 
