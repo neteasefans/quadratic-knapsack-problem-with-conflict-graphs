@@ -13,6 +13,15 @@ int main(int argc, char *argv[])
 		cout << "HSM_QKPCG usage: instance_dir output_sol_file out_stat_file" << endl;;
 		exit(10);
 	}
+
+	Time_limit = 20;
+	Runs = 10;		
+	//the following are parameters
+	Tabu_tenure = 20;
+	Non_imp_iters = 10000;
+	Pop_size = 10;
+	Shake_str = 0.2;			//it is unused
+
 	string path = argv[1];
 	string out_sol_file = argv[2];
 	string out_stat_file = argv[3];
@@ -29,13 +38,7 @@ int main(int argc, char *argv[])
     dir = opendir(path.c_str()); 
 	srand(unsigned(time(NULL)));
 	
-	Time_limit = 20;
-	Runs = 10;		
-
-	Tabu_tenure = 20;
-	Non_imp_iters = 10000;
-	Pop_size = 10;
-	Shake_str = 0.2;			//unused
+	
 		
 	 while((ptr = readdir(dir)) != NULL)
     {
