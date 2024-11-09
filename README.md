@@ -16,14 +16,13 @@ The source code given in 'src' directory implements the method described in our 
 ** Instructions
 
 *** To compile:
-$ bash
 
-make
-
-$
+q.zhou$: make
+q.zhou$
 
 *** To run:
-$ bash
+
+q.zhou$ bash
 
 ./HSM_QKPCG           
 
