@@ -17,18 +17,18 @@ The source code given in 'src' directory implements the method described in our 
 
 *** To compile:
 
-q.zhou$: make
+q.zhou$ make
 
 q.zhou$
 
 *** To run:
 
-q.zhou$: ./HSM_QKPCG
+q.zhou$ ./HSM_QKPCG
 
 q.zhou$
 
 *** To clean
-q.zhou$: make clean
+q.zhou$ make clean
 
 q.zhou$
 
