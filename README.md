@@ -23,7 +23,7 @@ q.zhou$
 
 *** To run:
 
-q.zhou$ ./HSM_QKPCG
+q.zhou$ ./HSM_QKPCG ./ins_dir ./output_sol_file ./output_stat_file
 
 q.zhou$
 
